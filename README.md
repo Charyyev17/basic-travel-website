@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Basic - Travel - Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Website developed by using Reactjs, TailwindCss & Fully Responsive
 
-## Available Scripts
+Website is LIVE on -> [https://basic-travel-website.netlify.app/](https://basic-travel-website.netlify.app/)
 
-In the project directory, you can run:
+## Project Content Images
 
-### `npm start`
+### 1. Home Page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/Charyyev17/basic-travel-website/assets/66562485/925f5d0b-db5e-4ec2-a15b-8855d7859933)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-----------------------------------------------------------------------------------------------------------------------------
 
-### `npm test`
+### 2. Home Page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/Charyyev17/basic-travel-website/assets/66562485/b7b75ac8-8ec5-4f65-8d26-c4704dd8f244)
 
-### `npm run build`
+-----------------------------------------------------------------------------------------------------------------------------
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 3. Home Page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/Charyyev17/basic-travel-website/assets/66562485/db402606-4c17-4659-a670-7e39e5071af0)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-----------------------------------------------------------------------------------------------------------------------------
 
-### `npm run eject`
+### 4. Slider
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![image](https://github.com/Charyyev17/basic-travel-website/assets/66562485/b1e11f32-f8eb-40b8-9336-be8e9349e8bc)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-----------------------------------------------------------------------------------------------------------------------------
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 5. Footer
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/Charyyev17/basic-travel-website/assets/66562485/1244531d-ca79-459c-8702-a27d04de788e)
